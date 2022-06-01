@@ -1,0 +1,11 @@
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.AssemblyReference.cache
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.SuggestedBindingRedirects.cache
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.frmPrincipal.resources
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.cache
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.CoreCompileInputs.cache
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\.Faculdade\Semestre1\Programação Visual\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
